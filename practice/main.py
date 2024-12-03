@@ -1,6 +1,6 @@
 # Student name
 # Current date
-# Project title
+# Validating String Input 
 
 # Part 1
 # Comment
