@@ -10,8 +10,8 @@
      - `isalpha ( )` to see if all the characters in the string are letters
      - `isdigit ( )` to see if all the characters in the string are digits
      - `isalnum ( )` to see if all the characters in the string are letters and/or numbers (in other words, no spaces, no special characters, no punctuation)
-  3. uses the `len ( )` function to check if the input string is at least five characters long
-     - Display a message that says the input string is five (or more) characters long (if that is actually the case)
+  3. uses the `len ( )` function to check if the input string (or the password the user entered) is at least seven characters long
+     - Display a message that says the input string is seven (or more) characters long (if that is actually the case)
   4. Prints a message saying that the input string is all letters (`True` or `False`)
   5. Prints a message saying that the input string is all numeric characters (`True` or `False`)
   6. Prints a message saying that the input string is made up of letters and/or numbers (`True` or `False`)
