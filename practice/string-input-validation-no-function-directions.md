@@ -16,6 +16,4 @@
   5. Prints a message saying that the input string is all numeric characters (`True` or `False`)
   6. Prints a message saying that the input string is made up of letters and/or numbers (`True` or `False`)
  
-### Sample Output
 
-- View the [sample output](https://github.com/manfredspitze/while-loops-solution/blob/main/string-input-validation-sample-output.md) for this script
