@@ -20,3 +20,5 @@
 ### Sample Output
 
 [View the sample output](https://github.com/manfredspitze/string-input-validation-starter/blob/main/practice/string-input-validation-sample-output.md)
+
+[Valid password sample output](valid-password.png)
