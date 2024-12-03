@@ -17,3 +17,6 @@
   6. Prints a message saying that the input string is made up of letters and/or numbers (`True` or `False`)
  
 
+### Sample Output
+
+[View the sample output](https://github.com/manfredspitze/string-input-validation-starter/blob/main/practice/string-input-validation-sample-output.md)
